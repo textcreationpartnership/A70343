@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the generall assembly of the confederate Catholiques of Ireland mett at the cittie of Kilkenny the tenth day of Ianuary, anno domini 1646 it is ordered that the oath of associatiõ, with the addition thereunto made by this assembly, in manner as the same hereafter followeth, shalbe de nouo taken, and sworne by the members of this assembly and all others of the confederate Catholickes / ex. per Philippum Kearnie Gen. Com. Hiberniæ Cler.</title>
+            <author>Ireland. General Assembly at Kilkenny.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70343</idno>
+            <idno type="STC">Wing I343A</idno>
+            <idno type="STC">ESTC R24040</idno>
+            <idno type="EEBO-CITATION">07944322</idno>
+            <idno type="OCLC">ocm 07944322</idno>
+            <idno type="VID">40610</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70343)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40610)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1150:29 or 1209:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the generall assembly of the confederate Catholiques of Ireland mett at the cittie of Kilkenny the tenth day of Ianuary, anno domini 1646 it is ordered that the oath of associatiõ, with the addition thereunto made by this assembly, in manner as the same hereafter followeth, shalbe de nouo taken, and sworne by the members of this assembly and all others of the confederate Catholickes / ex. per Philippum Kearnie Gen. Com. Hiberniæ Cler.</title>
+                  <author>Ireland. General Assembly at Kilkenny.</author>
+                  <author>Kearnie, Philip.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.]</publisher>
+                  <pubPlace>Printed at Kilkenny :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This work is found on reel 1150:29 as Wing I343A, and on reel 1209:3 as Wing K111 (number cancelled in Wing (CD-ROM, 1996)).</note>
+                  <note>Imperfect: cropped, stained, with print show-through and loss of print; best copy available for photographing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Irish Confederation, 1642-1648.</term>
+               <term>Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40610:1"/>
+            <p>BY THE GENERALL ASSEMBLY OF THE CONFEDERATE CATHOLIQVES OF IRELAND METT AT THE CITTIE OF KILKENNY THE TENTH DAY OF IANVARY <hi>Co.</hi> Anno Domini 1646.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>IT is ordered that the Oath of Aſſociatio<g ref="char:cmbAbbrStroke">̄</g> with the addition thereunto made by this Aſſem<g ref="char:EOLhyphen"/>bly in maner as the ſame hereafter followeth shalbe <hi>de nouo</hi> taken, and ſworne by the mem<g ref="char:EOLhyphen"/>bers of this Aſſembly and all others of the Confederate Catholickes.</p>
+                        <closer>
+                           <signed>Ex. per Philippum Kearnie Gen. Com. Hiberniae Cler.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed at Kilkenny in the yeare, 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="oath">
+            <pb n="2" facs="tcp:40610:2" rendition="simple:additions"/>
+            <p>
+               <hi>I A. B.</hi> Doe promiſe, ſweare, and proteſt, before God and his Saints and his Angells that I will during my life beare true faith and alleageance to my Souue<g ref="char:EOLhyphen"/>raine lord Charles by the Grace of God King of great Britaine, France, and Ireland and to his heires and lawfull ſucceſſors, and that I wil to my power during my life defend, uphold and maintaine all his and theire iust prerogatiues, Eſtates, and rights, the power, and priuiledges of the Parliament of this realme, the fun<g ref="char:EOLhyphen"/>damentall lawes of Ireland, the free exerciſe of the Roman Catholique faith and Religion throughout this land, and the liues, iuſt liberties, poſſeſſions, Estates and rights of all thoſe that haue taken or shall <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this oath and performe the contents thereof. And that I will obey and ratifie all the orders, and decrees ma<g ref="char:EOLhyphen"/>de, and to be made by the Supreame Councell of the Confederat Catholiques of this Kingdome concer<g ref="char:EOLhyphen"/>ning the ſaid publique Cauſe, and that J will not ſeeke or receiue directly or indirectly any pardon or pro<g ref="char:EOLhyphen"/>tection for any Act don, or to be don touching this Generall cauſe, with out the conſent of the Maior part of the ſaid Councell, And that I will not directly or indirectly doe any Act or Acts that shall preiudice the ſaid Cauſe but will to the hazard of my life and eſ<g ref="char:EOLhyphen"/>tate aſſist, proſecute, and maintaine the ſame. More<g ref="char:EOLhyphen"/>ouer I doe further ſweare, that I will not accept of,
+<pb n="3" facs="tcp:40610:2" rendition="simple:additions"/>of ſubmitte unto any peace made, or to be made, with the ſaid Confederat Chatholiques with out the conſent and approbation of the Generall Aſſembly of the ſaid Confederat Catholiques, and for the preſeruation and ſtreingthning of the Aſſociation, and Vnion of this Kingdome that upon any Peace or Accomodation to be made or concluded with the ſaid Confederat Ca<g ref="char:EOLhyphen"/>tholiques as afore ſaid I will to the uttermost of my po<g ref="char:EOLhyphen"/>wer inſist upon and maintaine the enſueing propo<g ref="char:EOLhyphen"/>ſitions, untill a peace as aforeſaid be made, and the mat<g ref="char:EOLhyphen"/>ters to be agreed upon in the Articles of Peace be established and secured by Parliament. Soe helpe me God and his holy Goſpell.</p>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:40610:3" rendition="simple:additions"/>
+            <head>THE PROPOSITIONS <hi>MENTIONED IN THE Foreſaid</hi> Oath.</head>
+            <p>FIrſt that the Roman Catholiques of both Cleargie and layty in there ſeuerall Capa<g ref="char:EOLhyphen"/>cities, haue the free and publique exerciſe of the Roman Catholique Religion and Function throughout the Kingdome in as full luſtre and ſplendor, as it was in the Raigne of King Henry the ſeauenth, or any other Catholique Kinge, his predece<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s Kings of England, and Lords of Ireland <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther in Ireland or in En<g ref="char:EOLhyphen"/>gland.</p>
+            <p n="2">2. Secondly <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>ſecular Cleargie</hi> of Ire<g ref="char:EOLhyphen"/>land videz. Prima<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Archbiſſhops, Bishops,</hi> Ordi<g ref="char:EOLhyphen"/>naries, Deanes, Deanes and Chapters, Archdea<g ref="char:EOLhyphen"/>cons, Prebendaries and other Dignitaries, and all other Paſtors of the ſecular Cleargie, and theire reſpectiue ſucceſſors shall haue and enioye all and all manner of Iuriſdictions, priuiledges and immunities in as full and ample manner as the Roman Catholique ſecular Clergie had or inioyed the ſame within this
+<pb n="5" facs="tcp:40610:3" rendition="simple:additions"/>Realme at any tyme during the Raigne of the late Kinge Henry the ſeauenth, ſometimes King of England and Lord of Ireland, any lawe, declaration of lawe ſtatute, power, or Au<g ref="char:EOLhyphen"/>thority what ſoeuer to the Contrary not with<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p n="3">3. Thirdly that all lawes and ſtatutes made ſince the twentieth yeare of King Henry the Light whereby any reſtrainte penaltie or other reſtriction whatſoeuer, is, or may be layed vpon any of the Roman Catholiques either of the Cleargie or of the Layty for ſuch theire free exerciſe of the Roman Catholique Reli<g ref="char:EOLhyphen"/>gion within this Kingdome and of theire ſe<g ref="char:EOLhyphen"/>uerall functions, Iuriſdictions, and priuiledges may be repealed, renewed and declared voyde in the next Parliament, by one or more Acts of Parliament, to be paſt therein.</p>
+            <p n="4">4. That the Primats Arch Bishops, Bishops Ordinaries, Deanes, Deanes and Chapters, Ar<g ref="char:EOLhyphen"/>chdeacons, Chancelors Treaſurers Chanters Prouoſts Wardens of Collegiat Churches Pre<g ref="char:EOLhyphen"/>bendaries and other Dignitaries, Parſons Vicars and other Paſtors of the Roman Catholique ſecular Cleargie, and theire reſpectiue ſucceſ<g ref="char:EOLhyphen"/>ſors shall haue, hold, and enioye all the Chur<g ref="char:EOLhyphen"/>ches,
+<pb n="6" facs="tcp:40610:4" rendition="simple:additions"/>and Church liuings in as large and ample manner, as the late proteſtant Cleargie reſpec<g ref="char:EOLhyphen"/>tiuely enioyed the ſame on the first day of October in the yeare of our Lord <hi>God 1641.</hi> to<g ref="char:EOLhyphen"/>gether with all the profits, emoluments, perqui<g ref="char:EOLhyphen"/>ſits, liberties, and other rights to theire reſpec<g ref="char:EOLhyphen"/>tiue Seas and Churches belonging as well in all places now in the poſſeſſion of the Confede<g ref="char:EOLhyphen"/>rat Catholiques as alſoe in all other places that shalbe recouered by the ſaid Confederat Ca<g ref="char:EOLhyphen"/>tholiques, from the aduerſe party within this Kingdome, ſauing to the Roman Catholique Layty theire reſpectiue rights, according the lawes of the Land.</p>
+            <closer>
+               <signed>Ex. per Philippum Kearnie Gen. Com. Hiberniae Cler.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="11" facs="tcp:40610:4" rendition="simple:additions"/>
+            <head>BY THE GENERAL ASSEMBLY OF THE CONFEDERAT CATHOLICKS OF IRELAND</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Confederat Roman Ca<g ref="char:EOLhyphen"/>tholicks of Ireland, haue beene for<g ref="char:EOLhyphen"/>ced to take Armes for the neceſſary defence and preſeruation of their Religion, plotted, and by many fowle practiſes endea<g ref="char:EOLhyphen"/>uored to be quite ſuppreſſed by the Puritan faction, as alſo for the defence ſafeguard and maintenance of his Maieſties regall power, iuſt prerogatiues, and rights inuaded vpon by the maligna<g ref="char:cmbAbbrStroke">̄</g>t Parliamentary partie of England, Ireland, and Scotland, and for the preſerua<g ref="char:EOLhyphen"/>tion of the Relligion, liues, liberties poſſeſſions eſtates, and rights of the ſaid Confederat Ca<g ref="char:EOLhyphen"/>tholiques, haue to that effect heretofore ta<g ref="char:EOLhyphen"/>ken an Oath of Aſſociation in declaration, and firme binding of a reall and vnanimous vni<g ref="char:EOLhyphen"/>on among them for the effects aforeſaid. Now
+<pb n="12" facs="tcp:40610:5" rendition="simple:additions"/>for aſmuch as this generall Aſſembly vpon ſome late diſtractions happened, haue thought fit to take and accordingly haue taken (with an addition thereunto made by this ho<g ref="char:EOLhyphen"/>wſe) the ſaid Oath of Aſſociation <hi>de Nouo</hi> It is there fore this day ordered that all and euery perſon, and perſons of the Confederat Catho<g ref="char:EOLhyphen"/>liques with in the Kingdome of Ireland, and all other perſon or perſons that shall hereafter adheare vnto their partie, as a Confederat, shall for the better aſſurance of their adhea<g ref="char:EOLhyphen"/>ring fidellity and conſtancie to the publick cauſe take <hi>de Nouo</hi> the ſaid Oath with the ad<g ref="char:EOLhyphen"/>dition thereunto made by this general Aſſ<g ref="char:EOLhyphen"/>embly, and any perſon or perſons of the Com<g ref="char:EOLhyphen"/>federat Catholiques aforeſaid, of what degree, condition, or quality, what ſoeuer failing or refuſing to take the ſame to be deemed and reputed a traytor and hereby is declared a tray<g ref="char:EOLhyphen"/>tor to God, his King, and countrey, and as a perſon marked with that odious taynte to be proceeded againſt, and dealt with all, and to the ende noe man might pretend ignorance of the Oath a foreſaid, or want of tender of the ſame vnto him. It is further ordered that all Superiours of the ſecular Cleargie shall cauſe
+<pb n="13" facs="tcp:40610:5" rendition="simple:additions"/>all thoſe vnder their power, and within their reſpectiue diſtricts, Dioceſſes, and Iuriſdictions to take the Oath aforeſaid, in mannner follow<g ref="char:EOLhyphen"/>ing, videlicet that euery Parish Prieſt adminiſt<g ref="char:EOLhyphen"/>er the ſame in his and theire reſpectiue Chur<g ref="char:EOLhyphen"/>ches, or other publike place, to be appointed by ſuch parish prieſt throughout the kingdome, and euery perſon of ranke and quallity within euery ſuch parish to ſigne a<g ref="char:cmbAbbrStroke">̄</g>d ſubſcribe his name adding therto the place of his habitation in a Roll of parchment to that Oath, which Rolle the ſaid Parish Prieſt is hereafter to retourne ſigned likewiſe and ſealed by him ſelfe to the Ordinary of the dioceſs wherein the ſaid Parish lyeth, whoe is to keepe the ſame in his Treaſury, and to tranſmit and certi<g ref="char:EOLhyphen"/>fie a true Copie thereof with in three mone<g ref="char:EOLhyphen"/>thes next enſueing vnto the office of the Clear<g ref="char:EOLhyphen"/>ke of the Generall Aſſembly vnder his Epiſcopale ſeale, there to be kept, and the like courſe the Regulars for thoſe vnder the ir rule are to obſerue, And eache Generall or other Commander in chiefe appointed or to be appointed to conduct or leade any Army or Armies vnder the power of the Confederat Catholiques, and all and euery Collonell, Captaine, or other officer, and his
+<pb n="14" facs="tcp:40610:6" rendition="simple:additions"/>and their reſpectiue vnder officers is to take the ſaid Oath, which Oath the Chaplaine Ma<g ref="char:EOLhyphen"/>ior of ſuch Army or Armies is aſwell vnto them as vnto all others the officers and Com<g ref="char:EOLhyphen"/>manders of ſuch Armie or Armies, where of hee is Chaplaine, and vnto all the ſoldiours in ſuch army reſpectiuely to adminiſter, re<g ref="char:EOLhyphen"/>tourning in manner as before expreſſed rolles of the names of thoſe that shall take the ſaid, Oath, adding their names the place of their habitation reſpectiuely as a foreſaid, And it is further ordered that all and euery Magiſtrat and officer aſwell with in Citties and Townes Corporat, as likewiſe all manner of officers of what name condition or degree either in the Marshall or Ciuill Liſt with in the Quarters of the Co<g ref="char:cmbAbbrStroke">̄</g>federat Catholiques shall vpo<g ref="char:cmbAbbrStroke">̄</g> the taking of any ſuch imployement ſweare and take the Oath of Aſſociation aforeſaid other wiſe not to be admitted in any ſuch publick truſt or im<g ref="char:EOLhyphen"/>ployment And all and euery Magiſtrat or other officer of what nature, name or condition what ſoeuer already in authority, or intruſted from the Confederat Catholiques in any imploy<g ref="char:EOLhyphen"/>ment either Ciuil or Martiall that shal faile or-refuſe to take the Oath aforeſaid to be imedi<g ref="char:EOLhyphen"/>atly vpon ſuch refuſall diſplaced, and put
+<pb n="15" facs="tcp:40610:6" rendition="simple:additions"/>from Commaund, power, office, or imploy<g ref="char:EOLhyphen"/>ment, among the ſaid Confederat Catholiques, and to be treated with and proceeded againſt as an enemy in manner as before declared. And foraſmuch as grieuous and daily com<g ref="char:EOLhyphen"/>plaintes are made againſt the Commanders and officers of the Army for their contempts and diſobedience to the orders of ſuch as are placed in authority, or in the gouernement of the Kingdome, to preuent the like in the future, by the tye and obligation of obedience, by the aforeſaid Oath impoſed. It is further ordered that noe manner of Commander of what de<g ref="char:EOLhyphen"/>gree ſoeuer in any the Army, or Armies of the Kingdome, shall receiue or be paid either for any paſt arreares or future meanes, to accrue from the publique, vnto him or them reſpecti<g ref="char:EOLhyphen"/>uely, vntill ſuch Commaunder or Comman<g ref="char:EOLhyphen"/>ders Officers or officer doe produce his and their certificat reſpectiuely of taking the Oath aforeſaid. And it is further ordered and decla<g ref="char:EOLhyphen"/>red that no perſon or perſons of what degree or qualitie ſo euer shal be admitted to ſue, implea<g ref="char:EOLhyphen"/>de or shall haue any other Iudgment, ſentence, or decree in any Court or Courts Iudicature or Iudicatures what ſoeuer, either spirituall, or temporall, with in the Quarters of the Confe<g ref="char:EOLhyphen"/>derat
+<pb n="16" facs="tcp:40610:7" rendition="simple:additions"/>Catholiques before ſuch perſon or per<g ref="char:EOLhyphen"/>ſons firſt take the ſaid Oath of Aſſociation, and that they not taking or refuſing to take the ſaid Oath of Aſſociation, shal be a ſufficient plea in Barr, and shall abate the ſuite or ſui<g ref="char:EOLhyphen"/>tes of any ſuch perſon or perſons whatſoeuer, And the Superiours and other perſons afore<g ref="char:EOLhyphen"/>ſaid of ſecular and regular Cleargie intruſted to adminiſter the ſaid Oath of Aſſociation, and to returne rolls as before declared, are in<g ref="char:EOLhyphen"/>ioyned as they Tender the Publique good of Ireland and of the Catholique cause, duly and effectually to pursue and obserue the contents of this order, and leaſt heere in they or any of them shoulde proue negligent, thoſe to be in<g ref="char:EOLhyphen"/>truſted in authority and with the gouernment of the Kingdome by this Aſſembly are vpon ſuch failer, by iſſuing of Commiſſions to ſuch whom they shall thinke fit to truſt, or by ſo<g ref="char:EOLhyphen"/>me other meanes to preſcribe a Courſe, whe<g ref="char:EOLhyphen"/>reby the ſaid Oath of Aſſociation shal be ge<g ref="char:EOLhyphen"/>nerally taken by all the Co<g ref="char:cmbAbbrStroke">̄</g>federat Catholiques of Ireland in manner as before expreſſed and declared, Giuen at Kilkeny the 8. of March, 1646.</p>
+            <closer>
+               <signed>Ex. per Philippum Kearnie Gen. Com. Hiberniae Cler.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
